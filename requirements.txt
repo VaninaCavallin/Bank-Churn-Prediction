@@ -1,0 +1,19 @@
+# Análisis y visualización
+pandas
+numpy
+matplotlib
+seaborn
+
+# Machine Learning
+scikit-learn
+statsmodels
+xgboost
+lightgbm
+catboost
+optuna
+
+# Reporte PDF (notebook 4)
+reportlab
+
+# Entorno de notebooks
+jupyter
